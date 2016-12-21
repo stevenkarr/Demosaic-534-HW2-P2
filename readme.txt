@@ -1,0 +1,1 @@
+In the bottom left of the original image, there is a blue crayon with a white line around the base of its tip. Because the line is an edge between a strong blue and a strong white, the interpolation blends the two colors to obtain a lighter shade of blue. Thus, this method can show artifacts around edges.
